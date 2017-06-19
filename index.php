@@ -25,5 +25,3 @@ echo "que chacun SAUVEGARDE son code!!!!!!";
 echo "test modif index dans branche nicolas";
 
 echo '<p class ="baba"> Hello Bambino </p>';
-
-?>
