@@ -8,4 +8,6 @@
 
 .baba {
   font-size: 8em;
+  text-decoration: underline;
+  color: lime;
 }
