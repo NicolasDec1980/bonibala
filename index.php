@@ -13,13 +13,10 @@ echo '2 eme test';
 echo "modif Boris";
 
 echo "modif Baptiste";
-<<<<<<< HEAD
+
 
 echo "que chacun SAUVEGARDE son code!!!!!!";
 
 echo "test modif index dans branche nicolas";
 
 echo '<p class ="baba"> Hello Bambino </p>';
-=======
-echo " test de rajout avec une nouvelle branche"
->>>>>>> 6fc96ad57b9cf98e01cd3942ca5665a5f4903ac1
