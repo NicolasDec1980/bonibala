@@ -5,6 +5,7 @@ echo "Je suis dans la branche boris";
 echo "ici l'équipe de winners";
 
 echo '2 eme test';
+ echo 'test de laurent avec branche : laurent_branche1';
 
 echo 'Vous êtes désormais dans la branche de Baptiste';
 
