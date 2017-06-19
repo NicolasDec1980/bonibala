@@ -13,12 +13,9 @@ echo 'test de laurent avec branche : laurent_branche1';
 echo "modif Boris";
 
 echo "modif Baptiste";
-<<<<<<< HEAD
 
 echo "que chacun SAUVEGARDE son code!!!!!!";
 
 echo "test modif index dans branche nicolas";
 
 echo '<p class ="baba"> Hello Bambino </p>';
-=======
->>>>>>> 82d16479abafabeaff1e7cc311f7c28f204322ac
