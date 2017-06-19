@@ -4,6 +4,8 @@ echo "ici l'équipe de winners";
 
 echo '2 eme test';
 
+echo 'Vous êtes désormais dans la branche de Baptiste';
+
 <<<<<<< HEAD
 echo 'test demodif de laurent';
 =======
